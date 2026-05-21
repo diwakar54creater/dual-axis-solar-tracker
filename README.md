@@ -1,2 +1,17 @@
-# dual-axis-solar-tracker
-The Dual Axis Solar Tracker is an automated renewable energy system that tracks sunlight using LDR sensors and servo motors controlled by Arduino. It improves solar panel efficiency by adjusting the panel position in both horizontal and vertical directions for maximum sunlight exposure.
+# Dual Axis Solar Tracker
+
+## Project Overview
+A Dual Axis Solar Tracker system designed to maximize solar energy absorption by automatically tracking sunlight in both horizontal and vertical directions.
+
+## Features
+- Automatic sunlight tracking
+- Increased solar panel efficiency
+- Real-time movement using servo motors
+- Energy optimization
+
+## Components Used
+- Arduino UNO
+- LDR Sensors
+- Servo Motors
+- Solar Panel
+- Motor Driver Module
